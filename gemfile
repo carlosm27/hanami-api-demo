@@ -1,0 +1,2 @@
+gem "hanami-api"
+gem "puma" # or "webrick", or "thin", "falcon"
